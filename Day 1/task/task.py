@@ -1,5 +1,4 @@
- # This line of code will take an input using the input() function
- # Comment- # + /
-#print("Hello "+ input("Name") + "!")
-input(1234)
-
+print("Welcome to the Band Name Generator.")
+user_city_name = input("What's the name of the city you grew up in?\n")
+user_pet_name = input("What's your pet's name?\n")
+print("Your band name could be " + user_city_name + " " + user_pet_name)
