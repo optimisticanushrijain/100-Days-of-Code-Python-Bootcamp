@@ -1,1 +1,2 @@
-print(len(1234))
+length=len("123")
+print(length)
